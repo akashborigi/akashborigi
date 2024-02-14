@@ -1,0 +1,7 @@
+name: Your Name
+
+on_display_palette:
+  - color: '#FFD700'
+    text: 'Your'
+  - color: '#FF69B4'
+    text: 'Akash'
