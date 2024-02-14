@@ -7,9 +7,10 @@
 <br/>
 
 <div align="center">
+    
  📚 I’m currently pursuing Master of Data Science from **UNIVERSITY OF HOUSTON**
  
- 🔭 I’m currently working on **a ANTUNES LAB**
+ 🔭 I’m currently working on **ANTUNES LAB**
  
  🌱 I’m currently learning **DOCKER, KUBERNETES, DATA MINING**
 
