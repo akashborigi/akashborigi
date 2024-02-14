@@ -1,7 +1,15 @@
-name: Your Name
+name: "Your Name"
 
-on_display_palette:
-  - color: '#FFD700'
-    text: 'Your'
-  - color: '#FF69B4'
-    text: 'Akash'
+on:
+  schedule:
+    - cron:  '0 0 * * *'  # Runs every day at 00:00 UTC
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update GitHub profile
+        uses: maxheld83/maxheld83@v0.9
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          name: AB
