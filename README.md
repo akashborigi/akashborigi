@@ -8,13 +8,13 @@
 
 <div align="center">
     
- 📚 I’m currently pursuing Master of Data Science from **UNIVERSITY OF HOUSTON**
+ 📚 Pursuing Master of Data Science from **UNIVERSITY OF HOUSTON**
  
- 🔭 I’m currently working on **ANTUNES LAB**
+ 🔭 Working on **ANTUNES LAB**
  
- 🌱 I’m currently learning **DOCKER, KUBERNETES, DATA MINING**
+ 🌱 Performing research activities in **Computational Biology, Cancer, Data Science**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Naruto and One Piece was never written by manga**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,kubernetes,docker" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql,angular-js,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql,angularjs,postgresql" /><br>
 </div>
 
 <br/>
