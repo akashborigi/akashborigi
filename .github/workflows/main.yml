@@ -1,15 +1,45 @@
-name: "Your Name"
+name: Generate Name on Calendar
 
 on:
   schedule:
-    - cron:  '0 0 * * *'  # Runs every day at 00:00 UTC
+    # Run every day at midnight
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+  
+  push:
+    branches:
+      - main
 
 jobs:
-  update-calendar:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Update GitHub profile
-        uses: maxheld83/maxheld83@v0.9
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Generate name on calendar
+        uses: JasonEtco/create-animated-github-badges@v2.3.0
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          name: AB
+          text: "AB"
+          badge_color: 'orange'
+          border_color: 'black'
+          background_color: '#e4e4e4'
+          logo_color: 'black'
+          logo: 'github'
+          animation: 'slide'
+          style: 'flat-square'
+          output_dir: './dist/'
+
+      - name: Show build status
+        run: git status
+
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update name on calendar
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
