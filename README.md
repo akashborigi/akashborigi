@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akash Borigi</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FFBE33&width=500&height=70&duration=4000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
+</h1>
+<h1 align="center">I'm Akash Borigi 👋</h1>
 <h3 align="center">An Indian 🇮🇳, and passionate Data Science Graduate from USA🇺🇸</h3>
 
 - 🔭 I’m currently working on **Benchmarking of peptide scoring function associated with Antunes Lab**
