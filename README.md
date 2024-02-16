@@ -8,7 +8,7 @@
 
 - 📚 I’m currently pursuing master's in **Data Science**
 
-- 🔭 I’m currently working on **Benchmarking of peptide scoring function associated with Antunes Lab**
+- 🔭 I’m currently working on **Benchmarking of peptide scoring function**
 
 - 🌱 I’m currently learning **Kubernetes, Docker, Rosetta, Data Mining**
 
