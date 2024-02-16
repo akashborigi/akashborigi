@@ -1,8 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=FFBE33&width=500&height=70&duration=4000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
 </h1>
 <h1 align="center">I'm Akash Borigi 👋</h1>
 <h3 align="center">An Indian 🇮🇳, and passionate Data Science Graduate from USA🇺🇸</h3>
+
+- 🥼 I’m currently associated with **Antunes Lab**
+
+- 📚 I’m currently pursuing master's in **Data Science**
 
 - 🔭 I’m currently working on **Benchmarking of peptide scoring function associated with Antunes Lab**
 
@@ -10,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Diverse AI/ML enhancement**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for help with **Internships**
 
 - 💬 Ask me about **Python, Data Science Techniques, Machine Learning Algorithms**
 
