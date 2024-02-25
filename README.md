@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **aborigi@cougarnet.uh.edu**
 
+- 🧾 For more details, view my resume : <a href="https://uofh-my.sharepoint.com/:b:/g/personal/aborigi_cougarnet_uh_edu/EQetYDRbaaxJqP-SmJ6T5B8B5dLb3ll3kON0aZ_1y3kpnA?e=YK6Vnh" target="blank"> Resume </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-borigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-borigi" height="30" width="40" /></a>
