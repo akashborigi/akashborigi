@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **aborigi@cougarnet.uh.edu**
 
-- 🧾 For more details, view my resume : <a href="https://uofh-my.sharepoint.com/:b:/g/personal/aborigi_cougarnet_uh_edu/EQetYDRbaaxJqP-SmJ6T5B8B5dLb3ll3kON0aZ_1y3kpnA?e=YK6Vnh" target="blank"> Resume </a>
+- 🧾 For more details, view my resume : <a href="https://uofh-my.sharepoint.com/:b:/g/personal/aborigi_cougarnet_uh_edu/EWvzZhGCETZJvn14FSPXE9gBpHnT8AKmcuTpBtRY9FzHzA?e=c3jfj7" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
