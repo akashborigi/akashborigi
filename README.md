@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
 </h1>
-<h1 align="center">I'm Akash Borigi 👋</h1>
+<h1 align="center">I'm Akash Borigi</h1>
 <h3 align="center">An Indian 🇮🇳, and passionate Data Science Enthusiast from USA🇺🇸</h3>
 
 - 🥼 I’m currently associated with **Antunes Lab**
