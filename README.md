@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **aborigi@cougarnet.uh.edu**
 
+- 💼 Check my portfolio : <a href="https://github.com/akashborigi/Resume/blob/main/AkashBorigi_DS_Resume.pdf" target="blank"> Portfolio </a>
+
 - 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/AkashBorigi_DS_Resume.pdf" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
