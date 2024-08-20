@@ -13,7 +13,7 @@
 - 🔭 My past works are **1. Benchmarking AI on peptide scoring function,
   2. Pioneering the drill based on comparative predictions**
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Rosetta, Data Mining**
+- 🌱 I’m currently learning **Systems Architecture, Deep Learning, Retrieval Augmented Generative**
 
 - 👯 I’m looking to collaborate on **Diverse AI/ML enhancement**
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, Data Science Techniques, Machine Learning Algorithms**
 
-- 📫 How to reach me **aborigi@cougarnet.uh.edu**
+- 📫 How to reach me **ab2cf@mst.edu**
 
 - 💼 Check my portfolio : <a href="https://akashborigi.github.io/" target="blank"> Portfolio </a>
 
