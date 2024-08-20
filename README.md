@@ -4,17 +4,20 @@
 <h1 align="center">I'm Akash Borigi</h1>
 <h3 align="center">An Indian 🇮🇳, and passionate Data Science Enthusiast from USA🇺🇸</h3>
 
-- 🥼 I’m currently associated with **Antunes Lab**
+- 🥼 I’m currently associated with **Missouri S&T**
 
-- 📚 I’m currently pursuing master's in **Data Science**
+- 📚 I’m currently pursuing doctorate in **Systems Engineering**
 
-- 🔭 I’m currently working on **Benchmarking of peptide scoring function**
+- 🔭 I’m currently working on **LLM Agents**
+
+- 🔭 My past works are **1. Benchmarking AI on peptide scoring function,
+  2. Pioneering the drill based on comparative predictions**
 
 - 🌱 I’m currently learning **Kubernetes, Docker, Rosetta, Data Mining**
 
 - 👯 I’m looking to collaborate on **Diverse AI/ML enhancement**
 
-- 🤝 I’m looking for help with **Internships**
+- 🤝 I’m looking for help with **Research and Publications**
 
 - 💬 Ask me about **Python, Data Science Techniques, Machine Learning Algorithms**
 
@@ -22,7 +25,7 @@
 
 - 💼 Check my portfolio : <a href="https://akashborigi.github.io/" target="blank"> Portfolio </a>
 
-- 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/AkashBorigi_DS_Resume.pdf" target="blank"> Resume </a>
+- 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/AkashBorigi_Resume.pdf" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
