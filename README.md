@@ -10,8 +10,7 @@
 
 - 🔭 I’m currently working on **LLM Agents**
 
-- 🔭 My past works are **1. Benchmarking AI on peptide scoring function,
-  2. Pioneering the drill based on comparative predictions**
+- 🔭 My past works are **1. AI Scoring for Peptide Drug Discovery, 2. Pioneering the Drill based on Comparative Predictions**
 
 - 🌱 I’m currently learning **Systems Architecture, Deep Learning, Retrieval Augmented Generative**
 
