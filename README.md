@@ -24,7 +24,7 @@
 
 - 💼 Check my portfolio : <a href="https://akashborigi.github.io/" target="blank"> Portfolio </a>
 
-- 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/AkashBorigi_Resume.pdf" target="blank"> Resume </a>
+- 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/Akash_Borigi_Resume.pdf" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
