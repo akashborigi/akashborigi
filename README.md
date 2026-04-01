@@ -8,7 +8,7 @@
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
 
-- 🔭 I’m currently working on **LLM Agents**
+- 🔭 I’m currently working on safety & security aspects of **Agentic AI**
 
 - ⌛ My past works and projects are **1. AI Scoring for Peptide Drug Discovery, 2. Pioneering the Drill based on Comparative Predictions**
 
