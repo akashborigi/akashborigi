@@ -6,7 +6,7 @@
 
 - 🥼 I’m currently associated with **Missouri S&T**
 
-- 📚 I’m currently pursuing doctorate in **Systems Engineering**
+- 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
 
 - 🔭 I’m currently working on **LLM Agents**
 
