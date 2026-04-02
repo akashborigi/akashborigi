@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python, Data Science Techniques, Machine Learning Algorithms**
 
-- 📫 How to reach me **ab2cf@mst.edu**
+- 📫 How to reach me **akashborigi555@gmail.com**
 
 - 💼 Check my portfolio : <a href="https://akashborigi.github.io/" target="blank"> Portfolio </a>
 
