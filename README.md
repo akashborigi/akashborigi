@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on safety & security aspects of **Agentic AI**
 
-- ⌛ My past works and projects are **1. AI Scoring for Peptide Drug Discovery, 2. Pioneering the Drill based on Comparative Predictions**
+- ⌛ My past works and projects are **1. The Alignment Gate for Agentic AI Safety, 2. Multi-Agentic Orchestration for Rockwell Automation Use case, 3. AI Scoring for Peptide Drug Discovery, 4. Pioneering the Drill based on Comparative Predictions**
 
 - 🌱 I’m currently learning **Systems Architecture, Deep Learning, Retrieval Augmented Generative**
 
