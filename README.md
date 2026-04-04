@@ -4,7 +4,7 @@
 <h1 align="center">I'm Akash Borigi</h1>
 <h3 align="center">Passionate Agentic AI and Generative AI Enthusiast</h3>
 
-- 🥼 I’m currently associated with **Missouri S&T**
+- 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
 
