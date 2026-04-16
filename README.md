@@ -57,3 +57,14 @@
 <td align="center"><a href="https://posit.co/download/rstudio-desktop/" target="_blank"><img src="https://avatars.githubusercontent.com/u/513560?s=200&v=4" alt="rstudio" width="40" height="40"/><br>RStudio</a></td>
 <td align="center"><a href="https://public.tableau.com/app/discover" target="_blank"><img src="https://avatars.githubusercontent.com/u/828667?s=200&v=4" alt="tableau" width="40" height="40"/><br>Tableau</a></td>
 </tr></table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akashborigi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashborigi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashborigi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+</p>
