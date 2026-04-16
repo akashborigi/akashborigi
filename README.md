@@ -1,13 +1,8 @@
-<table><tr>
-<td valign="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" /><br/>
-  <h1>I'm Akash Borigi</h1>
-  <h3>Passionate Agentic AI and Generative AI Enthusiast</h3>
-</td>
-<td valign="center" align="right">
-  <img src="https://github.com/akashborigi.png" width="160" height="200" style="border-radius:40%;object-fit:cover;" alt="Akash Borigi" />
-</td>
-</tr></table>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
+</h1>
+<h1 align="center">I'm Akash Borigi</h1>
+<h3 align="center">Passionate Agentic AI and Generative AI Enthusiast</h3>
 
 - 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
@@ -32,11 +27,11 @@
 - 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/Akash_Borigi_Resume.pdf" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
-<table><tr>
-<td><a href="https://linkedin.com/in/akash-borigi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
-<td><a href="https://www.instagram.com/ab_vibezzz/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a></td>
-<td><a href="http://www.youtube.com/@akashborigi8854" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a></td>
-</tr></table>
+<p align="left">
+<a href="https://linkedin.com/in/akash-borigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-borigi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ab_vibezzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab-vibezzz" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@akashborigi8854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashborigi8854" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <table><tr>
