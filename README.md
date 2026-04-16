@@ -27,11 +27,11 @@
 - 🧾 For more details, view my resume : <a href="https://github.com/akashborigi/Resume/blob/main/Akash_Borigi_Resume.pdf" target="blank"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akash-borigi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-borigi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ab_vibezzz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab-vibezzz" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@akashborigi8854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akashborigi8854" height="30" width="40" /></a>
-</p>
+<table><tr>
+<td><a href="https://linkedin.com/in/akash-borigi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a></td>
+<td><a href="https://www.instagram.com/ab_vibezzz/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a></td>
+<td><a href="http://www.youtube.com/@akashborigi8854" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" /></a></td>
+</tr></table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table><tr>
