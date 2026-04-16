@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/akashborigi.png" width="150" style="border-radius:50%" alt="Akash Borigi" />
+</p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
 </h1>
