@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center">I'm Akash Borigi</h1>
 <h3 align="center">Passionate Agentic AI and Generative AI Enthusiast</h3>
-
+<img valign="middle" align="right"><img src="https://github.com/akashborigi.png" width="110" height="140" alt="Akash Borigi" style="border-radius:50%/40%;object-fit:cover;" /></img>
 - 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
