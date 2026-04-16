@@ -2,8 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
 </h1>
 <h1 align="center">I'm Akash Borigi</h1>
-<h3 align="center">Passionate Agentic AI and Generative AI Enthusiast</h3>
-<img valign="middle" align="right"><img src="https://github.com/akashborigi.png" width="110" height="140" alt="Akash Borigi" style="border-radius:50%/40%;object-fit:cover;" /></img>
+<div align="center" style="display:flex;align-items:center;justify-content:center;gap:20px;...">
+  <div style="flex:1;min-width:300px;">
+    <h3>Passionate Agentic AI and Generative AI Enthusiast</h3>
+  </div>
+  <div style="flex-shrink:0;">
+    <img src="https://github.com/akashborigi.png" width="140" height="140" alt="Akash Borigi" 
+         style="border-radius:50%;object-fit:cover;box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
+  </div>
+</div>
 - 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
