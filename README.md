@@ -1,11 +1,13 @@
-<p align="center">
-  <img src="https://github.com/akashborigi.png" width="150" style="border-radius:50%" alt="Akash Borigi" />
-</p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" />
-</h1>
-<h1 align="center">I'm Akash Borigi</h1>
-<h3 align="center">Passionate Agentic AI and Generative AI Enthusiast</h3>
+<table><tr>
+<td valign="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=3396FF&width=400&height=70&duration=5000&lines=Namaste!+🙏;Hello!+👋;Bom+Dia!🌞;Marhaba!+😇;Konnichiwa!+😊;" /><br/>
+  <h1>I'm Akash Borigi</h1>
+  <h3>Passionate Agentic AI and Generative AI Enthusiast</h3>
+</td>
+<td valign="center" align="right">
+  <img src="https://github.com/akashborigi.png" width="160" height="200" style="border-radius:40%;object-fit:cover;" alt="Akash Borigi" />
+</td>
+</tr></table>
 
 - 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
