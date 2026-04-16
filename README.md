@@ -10,6 +10,7 @@
     <img src="https://github.com/akashborigi.png" width="140" height="140" alt="Akash Borigi" style="border-radius:50%;object-fit:cover;display:block;box-shadow:0 4px 15px rgba(0,0,0,0.2);" />
   </div>
 </div>
+
 - 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
