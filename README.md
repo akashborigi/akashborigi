@@ -13,7 +13,7 @@
 
 - 🥼 I’m currently associated with **CRANIUM AI**
 
-- 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
+- 📚 I pursued double Masters in **Systems Engineering** and **Engineering Data Science**
 
 - 🔭 I’m currently working on safety & security aspects of **Agentic AI**
 
