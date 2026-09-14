@@ -11,7 +11,7 @@
   </div>
 </div>
 
-- 🥼 I’m currently associated with **Missouri S&T** & **AICEBERG**
+- 🥼 I’m currently associated with **CRANIUM AI**
 
 - 📚 I’m currently pursuing doctorate transitioned Masters in **Systems Engineering**
 
